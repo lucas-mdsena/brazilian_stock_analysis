@@ -1,5 +1,4 @@
-# Project-02--Stock-Analysis
-Analysis of Brazilian Stocks
+# Analysis of Brazilian Stocks
 
 On-going project
 
